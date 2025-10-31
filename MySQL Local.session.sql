@@ -88,4 +88,4 @@ DESCRIBE NhanVien;
 <<<<<<< HEAD
 ALTER TABLE NhanVien CHANGE COLUMN gioi_tinh gioitinh VARCHAR(10);
 =======
->>>>>>> a029a52990cf7fbdfd7a67cbb403e5f6f35ec87b
+
